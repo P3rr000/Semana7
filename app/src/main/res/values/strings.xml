@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Semana7</string>
+    <string name="tarea_pesada">Tarea pesada (Con riesgo de ANR)</string>
+    <string name="hilos">Hilos</string>
+    <string name="asynctask">AsynTask</string>
+    <string name="en_ocaciones">Android está diseñado para ofrecerle al usuario la opción de terminar aquellas aplicaciones que demoran más de 5 segundos en responder a los eventos de usuarios. Cuando esto pasa, podemos ver el famoso Diálogo ANR (Application not respond).</string>
+    <string name="es_fundamental">Es fundamental para la capacidad de respuesta de la IU de la aplicación que no bloquee el subproceso de IU. Si tienes que realizar operaciones que no son inmediatas, debes asegurarte de hacerlo en subprocesos separados (subprocesos en segundo plano de trabajo)</string>
+    <string name="la_interfaz_asynctask">La interfaz AAsyncTask, fue creada con el objetivo de liberar al programador del uso de hilos, sincronización entre ellos y la presentación de resultados en el hilo primario. Esta clase unifica los aspectos relacionados que se realizarán en un segundo plano y además gestiona de forma asíncrona la ejecución de las tareas.</string>
+    <string name="checkbox">CHECK DE PRUEBA: De click para saber si el proceso encargado de la interfase de la aplicación responde.</string>
+</resources>
